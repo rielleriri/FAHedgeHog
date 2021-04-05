@@ -5,3 +5,4 @@ textblob
 plotly-express
 voila
 matplotlib
+datetime
