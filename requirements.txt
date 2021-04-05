@@ -4,4 +4,4 @@ pandas
 textblob
 plotly-express
 voila
-
+matplotlib
