@@ -1,4 +1,5 @@
 jupyterlab
+regex
 requests
 pandas
 textblob
@@ -9,4 +10,7 @@ seaborn
 ipywidgets
 matplotlib
 numpy
+nltk
+emoji
+contractions
 
