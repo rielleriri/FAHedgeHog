@@ -5,4 +5,8 @@ textblob
 plotly-express
 voila
 folium
+seaborn
+ipywidgets
+matplotlib
+numpy
 
