@@ -5,6 +5,7 @@ pandas
 textblob
 plotly-express
 voila
+future
 folium
 seaborn
 ipywidgets
