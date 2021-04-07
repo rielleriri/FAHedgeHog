@@ -1,18 +1,16 @@
 jupyterlab
+emoji
+nltk
 regex
 requests
+numpy
+contractions
 pandas
-textblob
+matplotlib
 plotly-express
-voila
-future
 folium
+plotly
 seaborn
 ipywidgets
-matplotlib
-numpy
-nltk
-emoji
-contractions
-requests
+gensim
 
