@@ -8,10 +8,10 @@ contractions
 pandas
 matplotlib
 plotly-express
-folium
 plotly
 seaborn
 ipywidgets
 gensim
 voila
+ta
 
